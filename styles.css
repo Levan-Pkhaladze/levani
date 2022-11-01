@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(28, 77, 133);
+}
+
+#header{
+    text-indent: 50px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: xx-large;
+    color: aliceblue;
+    margin: 20px;
+}
+
+.div{
+    background-color: white;
+    width: 30%;
+    margin: auto;
+}
+
+label{
+    color: rgb(199, 63, 127);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input{
+    border: azure groove;
+    padding: 10px 60px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+textarea{
+    border: groove azure;
+    padding: 30px 63px;
+}
+
+div{
+    margin-left: 50px ;
+}
+
+#submit{
+    margin-top: 10px;
+    color: white;
+    background-color: rgb(87, 184, 111);
+    border-style: none;
+    width: 85%;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+
+
+
